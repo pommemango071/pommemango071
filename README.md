@@ -17,6 +17,10 @@
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Ghost.png" alt="Ghost" width="25" height="25" />
 
 
+
+
+![](./profile-3d-contrib/profile-gitblock.svg)
+
 <p align="center" >
 	<picture>
 	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/pommemango071/pommemango071/output-3d-contrib/night.svg" />
@@ -26,4 +30,3 @@
 </p>
 
 
-![](./profile-3d-contrib/profile-gitblock.svg)
