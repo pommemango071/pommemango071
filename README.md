@@ -49,10 +49,12 @@ Through Python and Node.js, I have deepened my understanding of building databas
 ### Badges
 
 <b>My GitHub Stats</b>
-<a href="http://www.github.com/pommemango071">
-<img src="https://github-readme-stats.vercel.app/api?username=pommemango071&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=0891b2&icon_color=22c55e&bg_color=ffffff&hide_border=true&show_icons=true" alt="pommemango071's GitHub stats" /></a> 
-<a href="http://www.github.com/pommemango071"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pommemango071&stroke=0891b2&background=ffffff&ring=14b8a6&fire=14b8a6&currStreakNum=0891b2&currStreakLabel=14b8a6&sideNums=0891b2&sideLabels=0891b2&dates=0891b2&hide_border=true" /></a>
-<a href="https://github.com/pommemango071" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pommemango071&langs_count=10&title_color=14b8a6&text_color=0891b2&icon_color=22c55e&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<a href="http://www.github.com/pommemango071"><img src="https://github-readme-stats.vercel.app/api?username=pommemango071&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=000000&hide_border=true&show_icons=true" alt="pommemango071's GitHub stats" /></a>
+
+<a href="http://www.github.com/pommemango071"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pommemango071&stroke=ffffff&background=000000&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="https://github.com/pommemango071" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pommemango071&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ### Support Me
 <ul style="list-style-type: none; margin: 0;"><li style="display: inline-block; margin-right: 0.25rem;">
