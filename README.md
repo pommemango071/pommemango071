@@ -4,7 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Backend developer
 -----------------
 
-I’ve been learning to code for 6 months after switching careers. I started with HTML, but I have really found a passion for backend development. Through Python and Node.js, I have deepened my understanding of building databases and APIs.
+I’ve been learning to code for 6 months after switching careers. 
+I started with HTML, but I have really found a passion for backend development. 
+Through Python and Node.js, I have deepened my understanding of building databases and APIs.
 
 *   🌍  I'm based in South Korea
 *   🖥️  See my portfolio at [MyPortfolio](http://hyonee.com)
