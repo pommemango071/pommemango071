@@ -47,18 +47,21 @@ Through Python and Node.js, I have deepened my understanding of building databas
     
 ### Badges
 
-<div style="display: flex; justify-content: space-between;">
-    <div>
-        <a href="http://www.github.com/pommemango071">
-            <img src="https://github-readme-stats.vercel.app/api?username=pommemango071&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=000000&hide_border=true&show_icons=true" alt="pommemango071's GitHub stats" />
-        </a>
-    </div>
-    <div>
-        <a href="https://github.com/pommemango071" align="left">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pommemango071&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
-        </a>
-    </div>
-</div>
+<table>
+    <tr>
+        <td>
+            <a href="http://www.github.com/pommemango071">
+                <img src="https://github-readme-stats.vercel.app/api?username=pommemango071&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=000000&hide_border=true&show_icons=true" alt="pommemango071's GitHub stats" />
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/pommemango071">
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pommemango071&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
+            </a>
+        </td>
+    </tr>
+</table>
+
 
 ### Support Me
 
