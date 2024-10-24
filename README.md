@@ -48,12 +48,13 @@ Through Python and Node.js, I have deepened my understanding of building databas
 ### Badges
 
 <a href="https://github.com/pommemango071">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pommemango071&langs_count=10&title_color=ffcc99&text_color=703e0f&icon_color=ffb3a0&bg_color=fbe6d2&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pommemango071&langs_count=10&title_color=d69e4e&text_color=703e0f&icon_color=ffb3a0&bg_color=fbe6d2&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
 </a>
 
 <a href="http://www.github.com/pommemango071">
-    <img src="https://github-readme-stats.vercel.app/api?username=pommemango071&show_icons=true&hide=&count_private=true&title_color=ffcc99&text_color=703e0f&icon_color=ffb3a0&bg_color=fbe6d2&hide_border=true&show_icons=true" alt="pommemango071's GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=pommemango071&show_icons=true&hide=&count_private=true&title_color=d69e4e&text_color=703e0f&icon_color=ffb3a0&bg_color=fbe6d2&hide_border=true&show_icons=true" alt="pommemango071's GitHub stats" />
 </a>
+
 
 
 ### Support Me
