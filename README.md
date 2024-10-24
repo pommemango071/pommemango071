@@ -51,12 +51,12 @@ Through Python and Node.js, I have deepened my understanding of building databas
     <tr>
         <td>
             <a href="http://www.github.com/pommemango071">
-                <img src="https://github-readme-stats.vercel.app/api?username=pommemango071&show_icons=true&hide=&count_private=true&title_color=ff77a1&text_color=ffffff&icon_color=ffb3c1&bg_color=ffeef8&hide_border=true&show_icons=true" alt="pommemango071's GitHub stats" />
+                <img src="https://github-readme-stats.vercel.app/api?username=pommemango071&show_icons=true&hide=&count_private=true&title_color=ff77a1&text_color=d5006d&icon_color=ffb3c1&bg_color=ffeef8&hide_border=true&show_icons=true" alt="pommemango071's GitHub stats" />
             </a>
         </td>
         <td>
             <a href="https://github.com/pommemango071">
-                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pommemango071&langs_count=10&title_color=ff77a1&text_color=ffffff&icon_color=ffb3c1&bg_color=ffeef8&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pommemango071&langs_count=10&title_color=ff77a1&text_color=d5006d&icon_color=ffb3c1&bg_color=ffeef8&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
             </a>
         </td>
     </tr>
