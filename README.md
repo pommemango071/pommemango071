@@ -1,10 +1,11 @@
-<p align="center">
+
   Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Hyonee
 ==============================================================================================================================
 
 Backend developer
 -----------------
 
+<p align="center">
 I’ve been learning to code for 6 months after switching careers.</br> 
 I started with HTML, but I have really found a passion for backend development.</br>
 Through Python and Node.js, I have deepened my understanding of building databases and APIs.
