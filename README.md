@@ -19,8 +19,6 @@
 
 
 
-![](./profile-3d-contrib/profile-gitblock.svg)
-
 <p align="center" >
 	<picture>
 	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/pommemango071/pommemango071/output-3d-contrib/night.svg" />
