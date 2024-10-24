@@ -19,8 +19,7 @@ Through Python and Node.js, I have deepened my understanding of building databas
 *   ⚡  I told my computer I needed a break, and now it won’t stop sending me beach wallpapers. 
 
 
-
-<a href="https://www.github.com/pommemango071" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/pommemango071?logo=github&style=for-the-badge&color=22c55e&labelColor=ffffff" /></a>
+<a href="https://www.github.com/pommemango071" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/pommemango071?logo=github&style=for-the-badge&color=22c55e&labelColor=ffffff"/></a>
                   
 ### Skills 
 
@@ -51,8 +50,6 @@ Through Python and Node.js, I have deepened my understanding of building databas
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/pommemango071"><img src="https://github-readme-stats.vercel.app/api?username=pommemango071&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=000000&hide_border=true&show_icons=true" alt="pommemango071's GitHub stats" /></a>
-
-<a href="http://www.github.com/pommemango071"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pommemango071&stroke=ffffff&background=000000&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="https://github.com/pommemango071" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pommemango071&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
