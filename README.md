@@ -39,24 +39,3 @@ I’ve been learning to code for 6 months after switching careers. I started wit
                       href="http://www.github.com/pommemango071"><img src="https://github-readme-stats.vercel.app/api?username=pommemango071&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=0891b2&icon_color=22c55e&bg_color=ffffff&hide_border=true&show_icons=true" alt="pommemango071's GitHub stats" /></a><a
                       href="http://www.github.com/pommemango071"><img
                   src="https://github-readme-streak-stats.herokuapp.com/?user=pommemango071&stroke=0891b2&background=ffffff&ring=14b8a6&fire=14b8a6&currStreakNum=0891b2&currStreakLabel=14b8a6&sideNums=0891b2&sideLabels=0891b2&dates=0891b2&hide_border=true" /></a><a href="https://github.com/pommemango071" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pommemango071&langs_count=10&title_color=14b8a6&text_color=0891b2&icon_color=22c55e&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>### Support Me<ul style="list-style-type: none; margin: 0;"><li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/pommemango071"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li><li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/pommemango071"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li></ul>
-
-
-
-
-	  
-                    
-
-
-
-
-
-
-<p align="center" >
-	<picture>
-	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/pommemango071/pommemango071/output-3d-contrib/night.svg" />
-	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pommemango071/pommemango071/output-3d-contrib/day.svg" />
-	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/pommemango071/pommemango071/output-3d-contrib/day.svg" />
-	</picture>
-</p>
-
-
