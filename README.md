@@ -10,11 +10,11 @@ I’ve been learning to code for 6 months after switching careers.</br>
 I started with HTML, but I have really found a passion for backend development.</br>
 Through Python and Node.js, I have deepened my understanding of building databases and APIs.
 
-*   🌍  I'm based in South Korea
-*   🖥️  See my portfolio at [MyPortfolio](http://hyonee.com)
+*   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Travel%20and%20Places/Roller%20Coaster.webp" alt="Roller Coaster" width="25" height="25" />  I'm based in South Korea
+*   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" alt="Laptop" width="25" height="25" />  See my portfolio at [MyPortfolio](http://hyonee.com)
 *   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Incoming%20Envelope.webp" alt="Incoming Envelope" width="25" height="25" /> You can contact me at [pommemango071@gmail.com](mailto:pommemango071@gmail.com)
-*   🚀  I'm currently working on [Hyonee company](http://hyonee.com)
-*   🧠  I'm learning a new framework
+*   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Briefcase.webp" alt="Briefcase" width="25" height="25" />  I'm currently working on [Hyonee company](http://hyonee.com)
+*   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Books.webp" alt="Books" width="25" height="25" />  I'm learning a new framework
 *   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png" alt="Folded Hands Light Skin Tone" width="25" height="25" />  I'm open to collaborating on project A, project B
 *   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Beaming%20Face%20With%20Smiling%20Eyes.webp" alt="Beaming Face With Smiling Eyes" width="25" height="25" />  I told my computer I needed a break, and now it won’t stop sending me beach wallpapers. 
 
