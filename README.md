@@ -12,7 +12,7 @@ Through Python and Node.js, I have deepened my understanding of building databas
 
 *   🌍  I'm based in South Korea
 *   🖥️  See my portfolio at [MyPortfolio](http://hyonee.com)
-*   ✉️  You can contact me at [pommemango071@gmail.com](mailto:pommemango071@gmail.com)
+*   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Incoming%20Envelope.webp" alt="Incoming Envelope" width="25" height="25" /> You can contact me at [pommemango071@gmail.com](mailto:pommemango071@gmail.com)
 *   🚀  I'm currently working on [Hyonee company](http://hyonee.com)
 *   🧠  I'm learning a new framework
 *   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png" alt="Folded Hands Light Skin Tone" width="25" height="25" />  I'm open to collaborating on project A, project B
