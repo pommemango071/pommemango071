@@ -16,7 +16,7 @@ Through Python and Node.js, I have deepened my understanding of building databas
 *   🚀  I'm currently working on [Hyonee company](http://hyonee.com)
 *   🧠  I'm learning a new framework
 *   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png" alt="Folded Hands Light Skin Tone" width="25" height="25" />  I'm open to collaborating on project A, project B
-*   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Hand%20Over%20Mouth.png" alt="Face with Hand Over Mouth" width="25" height="25" />  I told my computer I needed a break, and now it won’t stop sending me beach wallpapers. 
+*   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Beaming%20Face%20With%20Smiling%20Eyes.webp" alt="Beaming Face With Smiling Eyes" width="25" height="25" />  I told my computer I needed a break, and now it won’t stop sending me beach wallpapers. 
 
 
 <a href="https://www.github.com/pommemango071" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/pommemango071?logo=github&style=for-the-badge&color=22c55e&labelColor=ffffff"/></a>
