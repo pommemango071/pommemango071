@@ -39,6 +39,11 @@ Through Python and Node.js, I have deepened my understanding of building databas
 
 
 
+### Hyonee's 3D contribution graph
+
+![](./profile-3d-contrib/profile-green-animate.svg)
+
+
 ### Support Me
 
 <ul style="list-style-type: none; margin: 0;">
@@ -48,6 +53,3 @@ Through Python and Node.js, I have deepened my understanding of building databas
 <li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/pommemango071"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li>
 
 </ul>
-
-
-![](./profile-3d-contrib/profile-green-animate.svg)
